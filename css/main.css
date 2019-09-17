@@ -1,0 +1,19 @@
+body{
+  font-family: 'Cormorant Garamond', serif;
+  background: url(../img/fondo.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}
+
+#tratamientos{
+	text-align: center;
+}
+
+.imgtratamientos{
+	margin-right: auto;
+	margin-left: auto;
+	max-width: 300px;
+	height: auto;
+	display: block;
+}
